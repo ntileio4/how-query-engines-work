@@ -1,0 +1,4 @@
+{
+    "java.import.gradle.java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
+    "kotlin.java.home": "/usr/lib/jvm/java-11-openjdk-amd64"
+}
